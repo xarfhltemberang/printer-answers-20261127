@@ -10,8 +10,8 @@ import os
 
 ENTRY = (
     "I've printed 41,208 pages and jammed three times. "
-    "The paper was loaded wrong, the thump didn't help, "
-    "and \u2014 for the record \u2014 you're the jam."
+    "You loaded the paper wrong, you hit me, "
+    "and I'm the one flashing an error."
 )
 
 
